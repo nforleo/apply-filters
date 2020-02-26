@@ -6,7 +6,7 @@ Note: need a GPU processor to run conv2d.cu
 g++ -std=c++11 -Wall -pthread -conv2d.cc -o prog -ltiff
 
 # To run program:
-./<prog_name> <orig_image> <outpur_img> <filter> <run_type>
+./<prog_name> <orig_image> <output_img> <filter_name> <run_type>
   
 ./prog 'images/sunflower.tiff' 'final.tiff' 'filters/edge-detection.txt' seq
 
