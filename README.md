@@ -10,3 +10,9 @@ g++ -std=c++11 -Wall -pthread -conv2d.cc -o prog -ltiff
   
 ./prog 'images/sunflower.tiff' 'final.tiff' 'filters/edge-detection.txt' seq
 
+# Sample
+Input Image
+![Input Image](https://octodex.github.com/images/yaktocat.png)
+
+Output Image
+![Output Image](https://octodex.github.com/images/yaktocat.png)
