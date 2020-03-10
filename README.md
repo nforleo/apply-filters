@@ -12,7 +12,7 @@ g++ -std=c++11 -Wall -pthread -conv2d.cc -o prog -ltiff
 
 # Sample
 Input Image
-![Input Image](https://github.com/nforleo/apply-filters/blob/master/images/sunflower.tif)
+[Input Image](https://github.com/nforleo/apply-filters/blob/master/images/sunflower.tif)
 
 Output Image
-![Output Image](https://octodex.github.com/images/yaktocat.png)
+[Output Image](https://github.com/nforleo/apply-filters/blob/master/final.tif)
